@@ -1,0 +1,8 @@
+sounddevice
+numpy
+scipy
+moviepy
+requests
+groq
+python-dotenv
+tk
