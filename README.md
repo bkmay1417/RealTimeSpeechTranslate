@@ -20,7 +20,7 @@ GROQ_API_KEY=tu_groq_api_key
 ```
 si no tienes key
 - [Registrarse en Deepgram](https://console.deepgram.com/signup)
-- [Registrarse en Groq](https://platform.groq.com/signup)
+- [Registrarse en Groq](https://console.groq.com/playground)
 
 ## Ejecución
 Para ejecutar la aplicación, simplemente corre el script principal:
