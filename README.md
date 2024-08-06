@@ -6,7 +6,7 @@ Grabar audio en tiempo real, transcribirlo usando la API de Deepgram y traducirl
 
 ## Requisitos
 
-1. Python 3.x
+1. Python 3
 2. Instalar las dependencias listadas en `requirements.txt`:
    ```bash
    pip install -r requirements.txt
