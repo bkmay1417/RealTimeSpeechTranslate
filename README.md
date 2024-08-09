@@ -2,6 +2,7 @@
 
 <div style="display: flex; align-items: center;">
     <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green" />
+    
 </div>
 
 Grabar audio en tiempo real, transcribirlo usando la API de Deepgram y traducirlo al español usando la API de Groq. La transcripción y la traducción se muestran en una interfaz gráfica.
